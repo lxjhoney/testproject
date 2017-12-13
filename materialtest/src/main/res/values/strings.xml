@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MaterialTest</string>
+    <string name="label">Fruits</string>
+    <string name="email">lxjhoney@gmail.com</string>
+    <string name="username">Quinn</string>
+    <string name="fruit_name">水果名</string>
+</resources>
